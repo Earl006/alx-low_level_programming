@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main - This is a function that prints the various types on the pc
+/**
+ * main - A program that prints the size of various computer types
  * Return: 0 (Success)
  */
 int main(void)
