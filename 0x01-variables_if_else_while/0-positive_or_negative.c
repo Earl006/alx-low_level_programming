@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/*
+/**
  * main - A program that gets values and uses if else to determine their value
- * Return 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
