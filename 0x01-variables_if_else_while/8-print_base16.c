@@ -12,7 +12,7 @@ if (i < 10)
 {
 putchar(i + '0');
 }
-else if (i > 10)
+else if (i >= 10)
 {
 putchar(i - 10 + 'a');
 }
