@@ -16,8 +16,8 @@ n--;
 }
 else
 {
-n++
+n++;
 }
 }
-putchar(' ');
+_putchar(' ');
 }
