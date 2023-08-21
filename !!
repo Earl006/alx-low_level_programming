@@ -1,0 +1,30 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+.cache/
+.emacs.d/
+.ssh/
+.vim/
+0x01_emacs/
+0x02_emacs/
+0x02_vi/
+0x03_vi/
+alx-low_level_programming/
+alx-pre_course/
+alx-zero_day/
+school_is_amazing/
+.bash_history
+.bashrc
+.git-credentials
+.gitconfig
+.profile
+.viminfo
+new_school
+school
+so_cool
