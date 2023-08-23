@@ -1,0 +1,16 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root/alx-low_level_programming/0x06-pointers_arrays_strings
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+main.h
+0-strcat.c
+1-strncat.c
+2-strncpy.c
+3-strcmp.c
+4-rev_array.c
+README.md
