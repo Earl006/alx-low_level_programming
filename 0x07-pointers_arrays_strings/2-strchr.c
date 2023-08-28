@@ -8,15 +8,17 @@
  */
 char *_strchr(char *s, char c)
 {
-	while (*s != '\0')
+	char *cpy = s;
+
+	while (*cpy != '\0')
 	{
-		if (*s == c)
+		if (*cpy == c)
 		{
-			return (s);
+			return (cpy);
 		}
 		else
 		{
-		s++;
+		cpy++;
 		}
 	}
 return (NULL);
