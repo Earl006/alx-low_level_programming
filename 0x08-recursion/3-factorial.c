@@ -5,7 +5,7 @@
  * @n: Contains the number
  * Return: n*factorial(n-1)
  */
-int factorial(int n);
+int factorial(int n)
 {
 	if (n < 0)
 	{
