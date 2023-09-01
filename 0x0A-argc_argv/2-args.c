@@ -9,8 +9,8 @@ int main(int argc, char **argv)
 {
 	int i;
 
-	for (i = 0; count < argc; i++)
+	for (i = 0; i < argc; i++)
 	{
-	print("%s\n", argv[i]);
+		print("%s\n", argv[i]);
 	}
 }
